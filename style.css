@@ -8,6 +8,17 @@
     height: 100vh;
     background-image: url(https://www.legnanonews.com/archivio/img/news/9F694F84-978A-205B-5308C3657ED63F83.jpeg);
   }
+  .wrapper {
+    width: 90%;
+    max-width: 34.37em;
+    max-height: 90vh;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    padding: 3em;
+    border-radius: 1em;
+  }
 
   #wheel {
     max-height: inherit;
