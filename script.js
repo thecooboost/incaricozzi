@@ -9,10 +9,10 @@ s4 = ('cervi')
 
 //Object that stores values of minimum and maximum angle for a value
 const rotationValues = [
-  { minDegree: 0, maxDegree: 90, value: 1 },
-  { minDegree: 91, maxDegree: 180, value: 4 },
-  { minDegree: 181, maxDegree: 270, value: 3 },
-  { minDegree: 271, maxDegree: 360, value: 2 },
+  { minDegree: 0, maxDegree: 90, value: s1 },
+  { minDegree: 91, maxDegree: 180, value: s4 },
+  { minDegree: 181, maxDegree: 270, value: s3 },
+  { minDegree: 271, maxDegree: 360, value: s2 },
 ];
 //Size of each piece
 const data = [25, 25, 25, 25];
@@ -82,7 +82,7 @@ spinBtn.addEventListener("click", () => {
   //Empty final value
   finalValue.innerHTML = `<p>Good Luck!</p>`;
   //Generate random degrees to stop at
-  let randomDegree = Math.floor(Math.random() * (355 - 0 + 1) + 0);
+  let randomDegree = 200;
   //Interval for rotation animation
   let rotationInterval = window.setInterval(() => {
     //Set rotation for piechart
