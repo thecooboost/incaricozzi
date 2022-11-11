@@ -6,7 +6,7 @@
   }
   body {
     height: 100vh;
-    background-image: url(https://github.com/thecooboost/urlosium/blob/main/sfondo.png);
+    background-image: url(sfondo.png);
   }
   .wrapper {
     width: 90%;
