@@ -13,6 +13,7 @@
     max-width: 34.37em;
     max-height: 90vh;
     background-color: #ffffff00;
+    opacity: .1;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
@@ -47,7 +48,7 @@
     border-radius: 50%;
     cursor: pointer;
     border: 0;
-    background-image: url(https://ams3.digitaloceanspaces.com/sempionenews/2018/03/cicciogamer89-e1523431662617.jpg);
+    background-color: aqua;
     color: #c66e16;
     text-transform: uppercase;
     font-size: 1.8em;
@@ -64,7 +65,7 @@
     font-size: 1.5em;
     text-align: center;
     margin-top: 1.5em;
-    color: #202020;
+    color: #e78403;
     font-weight: 500;
   }
   @media screen and (max-width: 768px) {
