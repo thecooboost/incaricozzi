@@ -12,14 +12,14 @@
     width: 90%;
     max-width: 34.37em;
     max-height: 90vh;
-    background-color: #000;
+    background: transparent url(https://t3.ftcdn.net/jpg/04/21/50/96/360_F_421509616_AW4LfRfbYST8T2ZT9gFGxGWfrCwr4qm4.jpg);
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
     padding: 3em;
     border-radius: 1em;
-    box-shadow: 0 4em 5em rgba(0, 0, 0, 0.8);
+    box-shadow: 0 4em 5em rgba(255, 255, 255, 0);
   }
   .container {
     position: relative;
