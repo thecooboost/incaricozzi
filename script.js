@@ -15,7 +15,7 @@ const rotationValues = [
   { minDegree: 271, maxDegree: 360, value: 2 },
 ];
 //Size of each piece
-const data = [16, 16, 16, 16];
+const data = [25, 25, 25, 25];
 //background color for each piece
 var pieColors = [
   "#8b35bc",
