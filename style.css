@@ -56,13 +56,13 @@ body {
 }
 #leftar {
   position: absolute;
-  width: 4em;
+  width: 7em;
   top: 45%;
   right: 23%;
 }
 #rightar {
   position: absolute;
-  width: 4em;
+  width: 7em;
   top: 45%;
   right: 71%;
 }
