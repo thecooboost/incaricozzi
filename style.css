@@ -58,13 +58,27 @@ body {
   position: absolute;
   width: 10em;
   top: 40%;
-  right: 23%;
+  right: 22%;
 }
 #rightar {
   position: absolute;
   width: 9em;
-  top: 40%;
-  right: 65%;
+  top: 43%;
+  right: 67%;
+}
+#upar {
+  position: absolute;
+  width: 9em;
+  top: 5%;
+  right: 44%;
+}
+#downar{
+  position: absolute;
+  width: 9em;
+  top: 70%;
+  right: 44%;
+
+
 }
 #final-value {
   font-size: 1.5em;
