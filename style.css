@@ -58,25 +58,25 @@ body {
   position: absolute;
   width: 9em;
   top: 40%;
-  left: 40%;
+  left: 80%;
 }
 #rightar {
   position: absolute;
   width: 9em;
   top: 40%;
-  right: 60%;
+  right: 80%;
 }
 #upar {
   position: absolute;
   width: 9em;
   top: 60%;
-  right: 40%;
+  right: 50%;
 }
 #downar{
   position: absolute;
   width: 9em;
-  top: -40%;
-  right: 40%;
+  top: -20%;
+  right: 50%;
 
 
 }
