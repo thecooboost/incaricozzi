@@ -58,7 +58,7 @@ body {
   position: absolute;
   width: 9em;
   top: 40%;
-  right: 0%;
+  left: 40%;
 }
 #rightar {
   position: absolute;
@@ -75,7 +75,7 @@ body {
 #downar{
   position: absolute;
   width: 9em;
-  top: 0%;
+  top: -40%;
   right: 40%;
 
 
