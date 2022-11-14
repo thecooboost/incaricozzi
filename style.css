@@ -57,14 +57,14 @@ body {
 #leftar {
   position: absolute;
   width: 10em;
-  top: 43%;
+  top: 40%;
   right: 23%;
 }
 #rightar {
   position: absolute;
-  width: 10em;
-  top: 45%;
-  right: 71%;
+  width: 9em;
+  top: 40%;
+  right: 65%;
 }
 #final-value {
   font-size: 1.5em;
