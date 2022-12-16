@@ -82,7 +82,7 @@ spinBtn.addEventListener("click", () => {
   //Empty final value
   finalValue.innerHTML = `<p>Good Luck!</p>`;
   //Generate random degrees to stop at
-  let randomDegree = 320;
+  let randomDegree = 20;
   //Interval for rotation animation
   let rotationInterval = window.setInterval(() => {
     //Set rotation for piechart
